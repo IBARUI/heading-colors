@@ -1,4 +1,4 @@
-[示例图片]（https://github.com/IBARUI/heading-colors/blob/main/%E7%A4%BA%E4%BE%8B.jpg）
+![示例图片]（示例.jpg）
 # Introduction
 
 - This is a custom CSS snippet designed for Obsidian. It adds colored small block markers to the left of H1~H6 headings to help quickly distinguish heading levels. The snippet supports both Edit mode (Live Preview / Source Mode) and Reading mode.
