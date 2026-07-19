@@ -1,5 +1,3 @@
-![示例图片](SamplePicture.jpg)
-
 # Heading Colors
 
 A plugin for [Obsidian](https://obsidian.md) that adds colored markers to heading levels (H1-H6), helping you quickly distinguish heading levels at a glance. Supports both Edit mode (Live Preview / Source Mode) and Reading mode.
